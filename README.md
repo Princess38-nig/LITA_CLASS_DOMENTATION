@@ -1,6 +1,15 @@
-  # LITA_CLASS_DOMENTATION
-### Project Title: E-commerce Sales Analysis
-------
+ # LITA_CLASS_DOMENTATION
+
+ ### Project Title: E-commerce Sales AnalysiS
+ 
+ [Project Overview].(#Project-Overview).
+ 
+ Data Source
+ 
+ Tools Used
+ 
+ Data Cleaning and Preparations
+ 
 ### Project Overview:
 The E-commerce Sales Analysis project aims to analyze and interpret sales data from an e-commerce platform to identify trends, patterns, and insights that can inform business decisions and drive growth. The project will utilize data visualization and statistical techniques to uncover hidden relationships and correlations within the data.
 
