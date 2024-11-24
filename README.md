@@ -81,3 +81,5 @@ The E-commerce Sales Analysis project aims to analyze and interpret sales data f
   ```
 
   ### Data Visualisation
+  
+[COLOURS.xlsx](https://github.com/user-attachments/files/17895463/COLOURS.xlsx)
